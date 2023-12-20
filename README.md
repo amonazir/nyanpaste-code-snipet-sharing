@@ -44,8 +44,3 @@ npm run dev
 http://localhost:3000
  ```
 
-
-You can also visit the deployed application [here](https://nyanpaste.up.railway.app/) or [here](https://nyanpaste1-adityam0338.b4a.run/) .
-
-## Thanks
-A special thanks to [Sayed Ahmed](https://github.com/sayeed205) for helping me with authentication, refactoring and deployment.
