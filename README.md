@@ -15,7 +15,7 @@ To run nyanpaste locally on your machine, you need to have **Node.js** and **npm
 1. Clone the repository.
 
 ```
-git clone https://github.com/NotAdi/nyanpaste-react.git
+git clone https://github.com/amonazir/nyanpaste-code-snipet-sharing.git
  ```
 
 2. Install the dependencies.
